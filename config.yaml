@@ -1,25 +1,36 @@
 apis:
-  - name: "Geo Cordinates"
-    method: "GET"
-    url: "http://ip-api.com/json/24.48.0.1"
+  - name: Geo Cordinates
+    method: GET
+    url: http://ip-api.com/json/24.48.0.1
     set_env:
-      lat: "response.lat"
-      lon: "response.lon"
+      lat: lat
+      lon: lon
 
-  - name: "API Request"
-    method: "GET"
-    url: "https://api.open-meteo.com/v1/forecast"
+
+  - name: Weather Forecast
+    method: GET
+    url: https://api.open-meteo.com/v1/forecast
     params:
       latitude: "{{lat}}"
       longitude: "{{lon}}"
-      current: "temperature_2m"
+      current: temperature_2m
 
-  - name: "Air Quality"
-    method: "GET"
-    url: "https://air-quality-api.open-meteo.com/v1/air-quality"
+
+  - name: Air Quality
+    method: GET
+    url: https://air-quality-api.open-meteo.com/v1/air-quality
     params:
       latitude: "{{lat}}"
       longitude: "{{lon}}"
-      hourly: "pm10,pm2_5"
-      current: "alder_pollen,birch_pollen,grass_pollen,mugwort_pollen,olive_pollen,ragweed_pollen,ozone,sulphur_dioxide,nitrogen_dioxide,carbon_monoxide,pm2_5,pm10,us_aqi,european_aqi"
-      forecast_days: "1"
+      hourly: pm10,pm2_5
+      current: alder_pollen,birch_pollen,grass_pollen,mugwort_pollen,olive_pollen,ragweed_pollen,ozone,sulphur_dioxide,nitrogen_dioxide,carbon_monoxide,pm2_5,pm10,us_aqi,european_aqi
+      forecast_days: 1
+
+
+  - name: Sample POST Request
+    method: POST
+    url: https://example.com/api/resource
+    headers:
+      Content-Type: application/json
+    payload_file: sample_post_payload.json
+

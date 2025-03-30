@@ -1,0 +1,132 @@
+API: Geo Cordinates
+Response: {"status":"success","country":"Canada","countryCode":"CA","region":"QC","regionName":"Quebec","city":"Montreal","zip":"H1K","lat":45.6085,"lon":-73.5493,"timezone":"America/Toronto","isp":"Le Groupe Videotron Ltee","org":"Videotron Ltee","as":"AS5769 Videotron Ltee","query":"24.48.0.1"}
+
+API: Weather Forecast
+Response: {"latitude":45.602497,"longitude":-73.55864,"generationtime_ms":0.013947486877441406,"utc_offset_seconds":0,"timezone":"GMT","timezone_abbreviation":"GMT","elevation":45.0,"current_units":{"time":"iso8601","interval":"seconds","temperature_2m":"°C"},"current":{"time":"2025-03-30T07:00","interval":900,"temperature_2m":-2.0}}
+
+API: Air Quality
+Response: {"latitude":45.600006,"longitude":-73.5,"generationtime_ms":0.13148784637451172,"utc_offset_seconds":0,"timezone":"GMT","timezone_abbreviation":"GMT","elevation":45.0,"current_units":{"time":"iso8601","interval":"seconds","alder_pollen":"grains/m³","birch_pollen":"grains/m³","grass_pollen":"grains/m³","mugwort_pollen":"grains/m³","olive_pollen":"grains/m³","ragweed_pollen":"grains/m³","ozone":"μg/m³","sulphur_dioxide":"μg/m³","nitrogen_dioxide":"μg/m³","carbon_monoxide":"μg/m³","pm2_5":"μg/m³","pm10":"μg/m³","us_aqi":"USAQI","european_aqi":"EAQI"},"current":{"time":"2025-03-30T07:00","interval":3600,"alder_pollen":null,"birch_pollen":null,"grass_pollen":null,"mugwort_pollen":null,"olive_pollen":null,"ragweed_pollen":null,"ozone":68.0,"sulphur_dioxide":3.5,"nitrogen_dioxide":12.4,"carbon_monoxide":220.0,"pm2_5":8.0,"pm10":8.5,"us_aqi":44,"european_aqi":27},"hourly_units":{"time":"iso8601","pm10":"μg/m³","pm2_5":"μg/m³"},"hourly":{"time":["2025-03-30T00:00","2025-03-30T01:00","2025-03-30...
+
+API: Sample POST Request
+Response: <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;example&#46;com&#47;api&#47;resource" on this server.<P>
+Reference&#32;&#35;18&#46;ce20c817&#46;1743318570&#46;79373394
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;ce20c817&#46;1743318570&#46;79373394</P>
+</BODY>
+</HTML>
+
+
+API: Geo Cordinates
+Response: {"status":"success","country":"Canada","countryCode":"CA","region":"QC","regionName":"Quebec","city":"Montreal","zip":"H1K","lat":45.6085,"lon":-73.5493,"timezone":"America/Toronto","isp":"Le Groupe Videotron Ltee","org":"Videotron Ltee","as":"AS5769 Videotron Ltee","query":"24.48.0.1"}
+
+API: Weather Forecast
+Response: {"latitude":45.602497,"longitude":-73.55864,"generationtime_ms":0.009775161743164062,"utc_offset_seconds":0,"timezone":"GMT","timezone_abbreviation":"GMT","elevation":45.0,"current_units":{"time":"iso8601","interval":"seconds","temperature_2m":"°C"},"current":{"time":"2025-03-30T07:00","interval":900,"temperature_2m":-2.0}}
+
+API: Air Quality
+Response: {"latitude":45.600006,"longitude":-73.5,"generationtime_ms":0.14102458953857422,"utc_offset_seconds":0,"timezone":"GMT","timezone_abbreviation":"GMT","elevation":45.0,"current_units":{"time":"iso8601","interval":"seconds","alder_pollen":"grains/m³","birch_pollen":"grains/m³","grass_pollen":"grains/m³","mugwort_pollen":"grains/m³","olive_pollen":"grains/m³","ragweed_pollen":"grains/m³","ozone":"μg/m³","sulphur_dioxide":"μg/m³","nitrogen_dioxide":"μg/m³","carbon_monoxide":"μg/m³","pm2_5":"μg/m³","pm10":"μg/m³","us_aqi":"USAQI","european_aqi":"EAQI"},"current":{"time":"2025-03-30T07:00","interval":3600,"alder_pollen":null,"birch_pollen":null,"grass_pollen":null,"mugwort_pollen":null,"olive_pollen":null,"ragweed_pollen":null,"ozone":68.0,"sulphur_dioxide":3.5,"nitrogen_dioxide":12.4,"carbon_monoxide":220.0,"pm2_5":8.0,"pm10":8.5,"us_aqi":44,"european_aqi":27},"hourly_units":{"time":"iso8601","pm10":"μg/m³","pm2_5":"μg/m³"},"hourly":{"time":["2025-03-30T00:00","2025-03-30T01:00","2025-03-30...
+
+API: Sample POST Request
+Response: <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;example&#46;com&#47;api&#47;resource" on this server.<P>
+Reference&#32;&#35;18&#46;552d3e17&#46;1743318874&#46;c7d0957
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;552d3e17&#46;1743318874&#46;c7d0957</P>
+</BODY>
+</HTML>
+
+
+API: Geo Cordinates
+Response: {"status":"success","country":"Canada","countryCode":"CA","region":"QC","regionName":"Quebec","city":"Montreal","zip":"H1K","lat":45.6085,"lon":-73.5493,"timezone":"America/Toronto","isp":"Le Groupe Videotron Ltee","org":"Videotron Ltee","as":"AS5769 Videotron Ltee","query":"24.48.0.1"}
+
+API: Weather Forecast
+Response: {"latitude":45.602497,"longitude":-73.55864,"generationtime_ms":0.010132789611816406,"utc_offset_seconds":0,"timezone":"GMT","timezone_abbreviation":"GMT","elevation":45.0,"current_units":{"time":"iso8601","interval":"seconds","temperature_2m":"°C"},"current":{"time":"2025-03-30T07:15","interval":900,"temperature_2m":-2.1}}
+
+API: Air Quality
+Response: {"latitude":45.600006,"longitude":-73.5,"generationtime_ms":0.13506412506103516,"utc_offset_seconds":0,"timezone":"GMT","timezone_abbreviation":"GMT","elevation":45.0,"current_units":{"time":"iso8601","interval":"seconds","alder_pollen":"grains/m³","birch_pollen":"grains/m³","grass_pollen":"grains/m³","mugwort_pollen":"grains/m³","olive_pollen":"grains/m³","ragweed_pollen":"grains/m³","ozone":"μg/m³","sulphur_dioxide":"μg/m³","nitrogen_dioxide":"μg/m³","carbon_monoxide":"μg/m³","pm2_5":"μg/m³","pm10":"μg/m³","us_aqi":"USAQI","european_aqi":"EAQI"},"current":{"time":"2025-03-30T07:00","interval":3600,"alder_pollen":null,"birch_pollen":null,"grass_pollen":null,"mugwort_pollen":null,"olive_pollen":null,"ragweed_pollen":null,"ozone":68.0,"sulphur_dioxide":3.5,"nitrogen_dioxide":12.4,"carbon_monoxide":220.0,"pm2_5":8.0,"pm10":8.5,"us_aqi":44,"european_aqi":27},"hourly_units":{"time":"iso8601","pm10":"μg/m³","pm2_5":"μg/m³"},"hourly":{"time":["2025-03-30T00:00","2025-03-30T01:00","2025-03-30...
+
+API: Sample POST Request
+Response: <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;example&#46;com&#47;api&#47;resource" on this server.<P>
+Reference&#32;&#35;18&#46;562d3e17&#46;1743318958&#46;236058af
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;562d3e17&#46;1743318958&#46;236058af</P>
+</BODY>
+</HTML>
+
+
+API: Geo Cordinates
+Response: {"status":"success","country":"Canada","countryCode":"CA","region":"QC","regionName":"Quebec","city":"Montreal","zip":"H1K","lat":45.6085,"lon":-73.5493,"timezone":"America/Toronto","isp":"Le Groupe Videotron Ltee","org":"Videotron Ltee","as":"AS5769 Videotron Ltee","query":"24.48.0.1"}
+
+API: Weather Forecast
+Response: {"latitude":45.602497,"longitude":-73.55864,"generationtime_ms":0.014901161193847656,"utc_offset_seconds":0,"timezone":"GMT","timezone_abbreviation":"GMT","elevation":45.0,"current_units":{"time":"iso8601","interval":"seconds","temperature_2m":"°C"},"current":{"time":"2025-03-30T07:15","interval":900,"temperature_2m":-2.1}}
+
+API: Air Quality
+Response: {"latitude":45.600006,"longitude":-73.5,"generationtime_ms":0.1354217529296875,"utc_offset_seconds":0,"timezone":"GMT","timezone_abbreviation":"GMT","elevation":45.0,"current_units":{"time":"iso8601","interval":"seconds","alder_pollen":"grains/m³","birch_pollen":"grains/m³","grass_pollen":"grains/m³","mugwort_pollen":"grains/m³","olive_pollen":"grains/m³","ragweed_pollen":"grains/m³","ozone":"μg/m³","sulphur_dioxide":"μg/m³","nitrogen_dioxide":"μg/m³","carbon_monoxide":"μg/m³","pm2_5":"μg/m³","pm10":"μg/m³","us_aqi":"USAQI","european_aqi":"EAQI"},"current":{"time":"2025-03-30T07:00","interval":3600,"alder_pollen":null,"birch_pollen":null,"grass_pollen":null,"mugwort_pollen":null,"olive_pollen":null,"ragweed_pollen":null,"ozone":68.0,"sulphur_dioxide":3.5,"nitrogen_dioxide":12.4,"carbon_monoxide":220.0,"pm2_5":8.0,"pm10":8.5,"us_aqi":44,"european_aqi":27},"hourly_units":{"time":"iso8601","pm10":"μg/m³","pm2_5":"μg/m³"},"hourly":{"time":["2025-03-30T00:00","2025-03-30T01:00","2025-03-30T...
+
+API: Sample POST Request
+Response: <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;example&#46;com&#47;api&#47;resource" on this server.<P>
+Reference&#32;&#35;18&#46;562d3e17&#46;1743319132&#46;238d5ddc
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;562d3e17&#46;1743319132&#46;238d5ddc</P>
+</BODY>
+</HTML>
+
+
+API: Geo Cordinates
+Response: {"status":"success","country":"Canada","countryCode":"CA","region":"QC","regionName":"Quebec","city":"Montreal","zip":"H1K","lat":45.6085,"lon":-73.5493,"timezone":"America/Toronto","isp":"Le Groupe Videotron Ltee","org":"Videotron Ltee","as":"AS5769 Videotron Ltee","query":"24.48.0.1"}
+
+API: Weather Forecast
+Response: {"latitude":45.602497,"longitude":-73.55864,"generationtime_ms":0.017404556274414062,"utc_offset_seconds":0,"timezone":"GMT","timezone_abbreviation":"GMT","elevation":45.0,"current_units":{"time":"iso8601","interval":"seconds","temperature_2m":"°C"},"current":{"time":"2025-03-30T07:15","interval":900,"temperature_2m":-2.1}}
+
+API: Air Quality
+Response: {"latitude":45.600006,"longitude":-73.5,"generationtime_ms":0.13875961303710938,"utc_offset_seconds":0,"timezone":"GMT","timezone_abbreviation":"GMT","elevation":45.0,"current_units":{"time":"iso8601","interval":"seconds","alder_pollen":"grains/m³","birch_pollen":"grains/m³","grass_pollen":"grains/m³","mugwort_pollen":"grains/m³","olive_pollen":"grains/m³","ragweed_pollen":"grains/m³","ozone":"μg/m³","sulphur_dioxide":"μg/m³","nitrogen_dioxide":"μg/m³","carbon_monoxide":"μg/m³","pm2_5":"μg/m³","pm10":"μg/m³","us_aqi":"USAQI","european_aqi":"EAQI"},"current":{"time":"2025-03-30T07:00","interval":3600,"alder_pollen":null,"birch_pollen":null,"grass_pollen":null,"mugwort_pollen":null,"olive_pollen":null,"ragweed_pollen":null,"ozone":68.0,"sulphur_dioxide":3.5,"nitrogen_dioxide":12.4,"carbon_monoxide":220.0,"pm2_5":8.0,"pm10":8.5,"us_aqi":44,"european_aqi":27},"hourly_units":{"time":"iso8601","pm10":"μg/m³","pm2_5":"μg/m³"},"hourly":{"time":["2025-03-30T00:00","2025-03-30T01:00","2025-03-30T02:00","2025-03-30T03:00","2025-03-30T04:00","2025-03-30T05:00","2025-03-30T06:00","2025-03-30T07:00","2025-03-30T08:00","2025-03-30T09:00","2025-03-30T10:00","2025-03-30T11:00","2025-03-30T12:00","2025-03-30T13:00","2025-03-30T14:00","2025-03-30T15:00","2025-03-30T16:00","2025-03-30T17:00","2025-03-30T18:00","2025-03-30T19:00","2025-03-30T20:00","2025-03-30T21:00","2025-03-30T22:00","2025-03-30T23:00"],"pm10":[19.7,18.0,15.4,13.7,12.2,10.6,9.4,8.5,7.9,7.5,7.3,7.4,8.6,9.4,10.2,10.8,10.8,11.2,11.4,11.5,11.0,10.5,10.5,10.5],"pm2_5":[18.7,17.1,14.8,13.0,11.6,10.0,8.8,8.0,7.5,7.1,6.8,6.9,8.0,8.8,9.6,10.1,10.1,10.4,10.5,10.7,10.2,9.7,9.9,10.0]}}
+
+API: Sample POST Request
+Response: <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;example&#46;com&#47;api&#47;resource" on this server.<P>
+Reference&#32;&#35;18&#46;c820c817&#46;1743319267&#46;5743a561
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;c820c817&#46;1743319267&#46;5743a561</P>
+</BODY>
+</HTML>
+
+
+API: Geo Cordinates
+Response: {"status":"success","country":"Canada","countryCode":"CA","region":"QC","regionName":"Quebec","city":"Montreal","zip":"H1K","lat":45.6085,"lon":-73.5493,"timezone":"America/Toronto","isp":"Le Groupe Videotron Ltee","org":"Videotron Ltee","as":"AS5769 Videotron Ltee","query":"24.48.0.1"}
+
+API: Weather Forecast
+Response: {"latitude":45.602497,"longitude":-73.55864,"generationtime_ms":0.011682510375976562,"utc_offset_seconds":0,"timezone":"GMT","timezone_abbreviation":"GMT","elevation":45.0,"current_units":{"time":"iso8601","interval":"seconds","temperature_2m":"°C"},"current":{"time":"2025-03-30T07:30","interval":900,"temperature_2m":-2.2}}
+
+API: Air Quality
+Response: {"latitude":45.600006,"longitude":-73.5,"generationtime_ms":0.1285076141357422,"utc_offset_seconds":0,"timezone":"GMT","timezone_abbreviation":"GMT","elevation":45.0,"current_units":{"time":"iso8601","interval":"seconds","alder_pollen":"grains/m³","birch_pollen":"grains/m³","grass_pollen":"grains/m³","mugwort_pollen":"grains/m³","olive_pollen":"grains/m³","ragweed_pollen":"grains/m³","ozone":"μg/m³","sulphur_dioxide":"μg/m³","nitrogen_dioxide":"μg/m³","carbon_monoxide":"μg/m³","pm2_5":"μg/m³","pm10":"μg/m³","us_aqi":"USAQI","european_aqi":"EAQI"},"current":{"time":"2025-03-30T07:00","interval":3600,"alder_pollen":null,"birch_pollen":null,"grass_pollen":null,"mugwort_pollen":null,"olive_pollen":null,"ragweed_pollen":null,"ozone":68.0,"sulphur_dioxide":3.5,"nitrogen_dioxide":12.4,"carbon_monoxide":220.0,"pm2_5":8.0,"pm10":8.5,"us_aqi":44,"european_aqi":27},"hourly_units":{"time":"iso8601","pm10":"μg/m³","pm2_5":"μg/m³"},"hourly":{"time":["2025-03-30T00:00","2025-03-30T01:00","2025-03-30T02:00","2025-03-30T03:00","2025-03-30T04:00","2025-03-30T05:00","2025-03-30T06:00","2025-03-30T07:00","2025-03-30T08:00","2025-03-30T09:00","2025-03-30T10:00","2025-03-30T11:00","2025-03-30T12:00","2025-03-30T13:00","2025-03-30T14:00","2025-03-30T15:00","2025-03-30T16:00","2025-03-30T17:00","2025-03-30T18:00","2025-03-30T19:00","2025-03-30T20:00","2025-03-30T21:00","2025-03-30T22:00","2025-03-30T23:00"],"pm10":[19.7,18.0,15.4,13.7,12.2,10.6,9.4,8.5,7.9,7.5,7.3,7.4,8.6,9.4,10.2,10.8,10.8,11.2,11.4,11.5,11.0,10.5,10.5,10.5],"pm2_5":[18.7,17.1,14.8,13.0,11.6,10.0,8.8,8.0,7.5,7.1,6.8,6.9,8.0,8.8,9.6,10.1,10.1,10.4,10.5,10.7,10.2,9.7,9.9,10.0]}}
+
+API: Sample POST Request
+Response: <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;example&#46;com&#47;api&#47;resource" on this server.<P>
+Reference&#32;&#35;18&#46;ce643717&#46;1743320247&#46;ee397dc8
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;ce643717&#46;1743320247&#46;ee397dc8</P>
+</BODY>
+</HTML>
+
+
